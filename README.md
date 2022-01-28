@@ -6,16 +6,17 @@ This project was built to learn and understand the flow of an asp.net MVC web ap
 The relation between web page requests to the controller and how the controller requests data from the database through the model
 to display the proper information on the page.
 
-The app itself can:
-  Makes movies with properties
-    ID
-    Title
-    ReleaseDate
-    Genre
-    Rating
-  Displays these movies with CRUD operations available for each.
-  Search functions are available through text and a drop down genre filter.
-  Validation for the Create action window.
+The app itself can: <br />
+Makes movies with properties <br />
+ID <br />
+Title <br />
+ReleaseDate <br />
+Genre <br />
+Rating <br />
+
+Displays these movies with CRUD operations available for each.
+Search functions are available through text and a drop down genre filter.
+Validation for the Create action window.
   
 I learnt a ton from this project.
   How the programs entry point works.
